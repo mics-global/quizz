@@ -1,0 +1,25 @@
+{
+    "heading": "HTM100 Week-1 EOC Quiz",
+    "description": "This quiz demonstrates your understanding of today's class. Good Luck, You got this!!!",
+    "questions": [
+        {
+            "type": "MCQ",
+            "question": "What does HTML Stand For?",
+            "answer": "Hypertext Markup Language",
+            "wrong": [
+                "Handicapped Tyrant's Masterful Landing",
+                "Hello There Mean Lizard",
+                "Hypertext Markup Script (Psst. It's not this)"
+            ]
+        },
+        {
+            "question": "What is a correct Header Tag usage?",
+            "answer": "<h>This is a header</h>",
+            "wrong": [
+                "<a header tag>This is a header</ a header tag>",
+                "<not a header tag>This is a header</not a header tag>",
+                "<header>This is a header</header> (Psst. It's not this.)"
+            ]
+        }
+    ]
+}

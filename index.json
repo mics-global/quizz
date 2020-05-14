@@ -3,6 +3,10 @@
         {
             "title": "HTM100 - Week 1 EOCQ",
             "source": "https://raw.githubusercontent.com/mics-global/quizz/master/htm100/htm100-week-1.json"
+        },
+        {
+            "title": "HTM100 - Week 2 EOCQ",
+            "source": "https://raw.githubusercontent.com/mics-global/quizz/master/htm100/htm100-week-2.json"
         }
     ]
 }
